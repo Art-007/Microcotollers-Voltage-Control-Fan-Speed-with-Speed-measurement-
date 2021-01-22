@@ -1,1 +1,2 @@
 # Microcotollers-Voltage-Control-Fan-Speed-with-Speed-measurement-
+## The project goal was to  control the speed of a fan using PWM (Pulse Width Modulation). An inputvoltage will be measured and based on its value the fan will be changed accordingly. Beside the speedcontrol feature, this lab will also measure the speed that the fan is rotating by capturing the number of tach pulses from the fan. All the data will displayed on a TFT panel
